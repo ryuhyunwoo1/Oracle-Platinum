@@ -14,3 +14,7 @@ $ $ORACLE_HOME/runInstaller -silent -responseFile responsefilename
 (For Oracle Grid Infrastructure)
 $ /u01/app/oracle/product/19.0.0/grid/gridSetup.sh -silent -responseFile responsefilename
 
+
+### References 
+Install and Upgrade: Database Installation for Linux
+https://docs.oracle.com/en/database/oracle/oracle-database/19/ladbi/database-installation-guide-linux.pdf
